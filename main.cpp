@@ -26,7 +26,7 @@ vector<string> split(string str, char delimiter)
 	return internal;
 }
 
-int main(int argc, char* argv)
+int main(int argc, char* argv[])
 {
     string path = "/home/omid55/PythonProjects/RecordGenerator/Generated1.txt";
     if(argc > 1)
