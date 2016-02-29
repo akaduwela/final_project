@@ -5,15 +5,16 @@
 
 #include "BTree.h"
 
-BTreeNode::BTreeNode(){
-
-};
-void BTreeNode::traverse(BTreeNode* p){
+BTree::BTree(int _t){
 
 }
-int BTreeNode::split_child(BTreeNode *x, int i){
+void BTree::BTreeNode::traverse(BTreeNode* p){
 
 }
-void BTreeNode::insert(int a){
+int BTree::BTreeNode::split_child(BTreeNode *x, int i){
 
 }
+void BTree::BTreeNode::insert(int a){
+
+}
+
